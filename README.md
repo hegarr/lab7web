@@ -30,7 +30,7 @@
 ##### Buat folder lab7_php_dasar pada root directory web server ```(c:\xampp\htdocs)```
 ![gambar](gambar/lab7_8.png)
 ##### Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: ```http://localhost/lab7_php_dasar/```
-![gambar](gambar/lab7_1.png)
+![lab7_2](https://github.com/hegarr/lab7web/assets/145521387/1027513d-f679-41f8-899e-f9f3ee471d31)
 ##### PHP Dasar
 ##### Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
 ```python
@@ -47,7 +47,7 @@
     ?>
 ```
 ##### Hasil Output
-![gambar](gambar/lab7_2.png)
+![lab7_12](https://github.com/hegarr/lab7web/assets/145521387/d81eab70-2543-4d17-84f4-0e44aeed4d81)
 ##### Kemudian untuk mengakses hasilnya melalui URL: ```http://localhost/lab7_php_dasar/php_dasar.php```
 ##### Variable PHP
 ##### Menambahkan variable pada program.
@@ -61,7 +61,8 @@
     ?>
 ```
 ##### Hasil Output
-![gambar](gambar/lab7_12.png)
+![Cuplikan layar 2023-11-13 150425](https://github.com/hegarr/lab7web/assets/145521387/39d6900f-825e-4e73-a2cb-28ee679e6b81)
+
 ##### Predefine Variable $_GET
 ```pyhton
  <h1>Predefine Variable</h1>
@@ -72,7 +73,8 @@
 </html>
 ```
 ##### Hasil Output
-![gambar](gambar/lab7_10.png)
+![lab7_3](https://github.com/hegarr/lab7web/assets/145521387/f3f8cb74-657a-4323-a382-47cfa2b9c8fe)
+
 ##### Untuk mengaksesnya gunakan URL: ```http://localhost/lab7_php_dasar/php_dasar.php?nama=Muhammad Din Al Ayubi```
 ##### Membuat Form Input
 ```python
@@ -147,7 +149,8 @@ switch ($nama_hari) {
 ?>
 ```
 ##### Hasil Output
-![gambar](gambar/lab7_11.png)
+![lab7_4](https://github.com/hegarr/lab7web/assets/145521387/a9cca007-b29b-4ca4-8638-4aa63467ddca)
+
 ##### Perulangan for
 ```python
 <h2>Perulangan for</h2>
@@ -163,7 +166,8 @@ for ($i=10; $i>=1; $i--) {
 ?>
 ```
 ##### Hasil Output
-![gambar](gambar/lab7_13.png)
+![lab7_5](https://github.com/hegarr/lab7web/assets/145521387/efeb1e29-39e0-4434-ac32-c8cb7df6cd70)
+
 ##### Perulangan while
 ```python
 <h2>Perulangan while</h2>
