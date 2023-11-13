@@ -30,7 +30,8 @@
 ##### Buat folder lab7_php_dasar pada root directory web server ```(c:\xampp\htdocs)```
 ![gambar](gambar/lab7_8.png)
 ##### Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: ```http://localhost/lab7_php_dasar/```
-![lab7_2](https://github.com/hegarr/lab7web/assets/145521387/1027513d-f679-41f8-899e-f9f3ee471d31)
+![lab7_1](https://github.com/hegarr/lab7web/assets/145521387/fdfe83bd-9baf-4667-86dd-6493e254dfe3)
+
 ##### PHP Dasar
 ##### Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat kode seperti berikut.
 ```python
@@ -47,7 +48,8 @@
     ?>
 ```
 ##### Hasil Output
-![lab7_12](https://github.com/hegarr/lab7web/assets/145521387/d81eab70-2543-4d17-84f4-0e44aeed4d81)
+![lab7_2](https://github.com/hegarr/lab7web/assets/145521387/cd894aa3-db85-42ce-baa0-bf0b48b5e02a)
+
 ##### Kemudian untuk mengakses hasilnya melalui URL: ```http://localhost/lab7_php_dasar/php_dasar.php```
 ##### Variable PHP
 ##### Menambahkan variable pada program.
@@ -61,7 +63,7 @@
     ?>
 ```
 ##### Hasil Output
-![Cuplikan layar 2023-11-13 150425](https://github.com/hegarr/lab7web/assets/145521387/39d6900f-825e-4e73-a2cb-28ee679e6b81)
+![lab7_11](https://github.com/hegarr/lab7web/assets/145521387/2fd98487-9d1c-4077-a59b-682e46b3f20d)
 
 ##### Predefine Variable $_GET
 ```pyhton
@@ -73,7 +75,7 @@
 </html>
 ```
 ##### Hasil Output
-![lab7_3](https://github.com/hegarr/lab7web/assets/145521387/f3f8cb74-657a-4323-a382-47cfa2b9c8fe)
+![lab7_2](https://github.com/hegarr/lab7web/assets/145521387/7b0f2a86-0348-46d2-a664-821d0b0b5d3a)
 
 ##### Untuk mengaksesnya gunakan URL: ```http://localhost/lab7_php_dasar/php_dasar.php?nama=Muhammad Din Al Ayubi```
 ##### Membuat Form Input
@@ -149,7 +151,7 @@ switch ($nama_hari) {
 ?>
 ```
 ##### Hasil Output
-![lab7_4](https://github.com/hegarr/lab7web/assets/145521387/a9cca007-b29b-4ca4-8638-4aa63467ddca)
+![lab7_11](https://github.com/hegarr/lab7web/assets/145521387/3722e160-a5ea-4734-b647-aacd6228aeb9)
 
 ##### Perulangan for
 ```python
@@ -166,7 +168,7 @@ for ($i=10; $i>=1; $i--) {
 ?>
 ```
 ##### Hasil Output
-![lab7_5](https://github.com/hegarr/lab7web/assets/145521387/efeb1e29-39e0-4434-ac32-c8cb7df6cd70)
+![lab7_4](https://github.com/hegarr/lab7web/assets/145521387/40ebb9dd-f323-4029-9f97-5fcd6116a7ee)
 
 ##### Perulangan while
 ```python
@@ -181,7 +183,8 @@ while ($i<=10) {
 ?>
 ```
 ##### Hasil Output
-![gambar](gambar/lab7_14.png)
+![lab7_5](https://github.com/hegarr/lab7web/assets/145521387/b89bdc8a-4a5a-4000-ac1b-f179fae92107)
+
 ##### Perulangan dowhile
 ```python
 <h2>Perulangan dowhile</h2>
